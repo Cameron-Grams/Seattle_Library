@@ -1,0 +1,587 @@
+Code,Description,Code Type,Format Group,Format Subgroup,Category Group,Category Subgroup,Age Group
+cazover,CA7-zine collection oversize,ItemCollection,Print,Book,Periodical,,Adult
+caziner,CA7-zine collection reference,ItemCollection,Print,Book,Periodical,,Adult
+cazval,CA7-zine collection valuable mat.,ItemCollection,Print,Book,Periodical,,Adult
+nga,Northgate Branch,Location,,,,,
+hip,High Point Branch,Location,,,,,
+rbe,Rainier Beach Branch,Location,,,,,
+wlb,Wa Talking Book And Braille Library,Location,,,,,
+dth,Douglass-Truth Branch,Location,,,,,
+drp1,*** Temporary ***,Location,,,,,
+mag,Magnolia Branch,Location,,,,,
+nhy,NewHolly Branch,Location,,,,,
+bal,Ballard Branch,Location,,,,,
+gwd,Greenwood Branch,Location,,,,,
+net,Northeast Branch,Location,,,,,
+idc,International District/Chinatown Branch,Location,,,,,
+cap,Capitol Hill Branch,Location,,,,,
+stak,Unavailable: [do Not Use!!!],Location,,,,,
+wal,Wallingford Branch,Location,,,,,
+tcs,Tech. & Coll. Srvcs Dept (Central),Location,,,,,
+lcy,Lake City Branch,Location,,,,,
+bro,Broadview Branch,Location,,,,,
+mon,Montlake Branch,Location,,,,,
+mob,Mobile Services,Location,,,,,
+spa,South Park Branch,Location,,,,,
+qas,Storage - Ask At Desk,Location,,,,,
+dlr,Delridge Branch,Location,,,,,
+col,Columbia Branch,Location,,,,,
+out,Outreach,Location,,,,,
+uni,University Branch,Location,,,,,
+qna,Queen Anne Branch,Location,,,,,
+wts,West Seattle Branch,Location,,,,,
+mgm,Madrona-Sally Goldmark Branch,Location,,,,,
+glk,Green Lake Branch,Location,,,,,
+bea,Beacon Hill Branch,Location,,,,,
+cen,Central Library,Location,,,,,
+fre,Fremont Branch,Location,,,,,
+swt,Southwest Branch,Location,,,,,
+ill,Interlibrary Loan,Location,,,Interlibrary Loan,,
+napclb,NA-Computer Lab,ItemCollection,Print,Book,Miscellaneous,,Adult
+caper,CA7-Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+nypb,NY-Teen Paperbacks,ItemCollection,Print,Book,Fiction,,Teen
+nafic,NA-Fiction,ItemCollection,Print,Book,Fiction,,Adult
+cspero,"CS 6 - Magazines, Oversize",ItemCollection,Print,Book,Miscellaneous,,Adult
+ccb,CC-Children's Biographies,ItemCollection,Print,Book,Nonfiction,Biography,Juvenile
+cs8,CS 8,ItemCollection,Print,Book,Miscellaneous,,Adult
+arbk,Book: Ref Adult/YA,ItemType,Print,Book,Reference,,Adult
+bcvhs,Video (VHS): Adult/Formerly No Fine,ItemType,Media,Video Tape,Miscellaneous,,Adult
+peakfic,Peak Picks Fiction,ItemCollection,Print,Book,Fiction,Peak Picks,Adult
+cs8x,CS 8 - Extra-large,ItemCollection,Print,Book,Miscellaneous,,Adult
+cccomic,CC-Children's Comics,ItemCollection,Print,Book,Fiction,Comic,Juvenile
+sxper,Branch Periodical Copy Record,ItemCollection,Other,Periodical,Temporary,,Adult
+drbk,Book: Dummy Record,ItemType,Other,Book,Temporary,,Adult
+cagcdr,CA9-Genealogy CDROMs,ItemCollection,Media,Data Disc,Miscellaneous,,Adult
+sxdmyb,"CAT Dummy For Anals,Series,Etc.",ItemCollection,Other,,Temporary,,Adult
+cagr,CA 9 Ref Genealogy,ItemCollection,Print,Book,Reference,,Adult
+HOTSPOT,Equipment: HOTSPOT,ItemTypeDetail,Equipment,,Miscellaneous,,Adult
+cyser,CY3-Teen Series,ItemCollection,Print,Book,Fiction,,Teen
+nabiflk,NA-Bifolkal Kits,ItemCollection,Media,Kit,Miscellaneous,,Adult
+bccas,Audio Tape: Speech Adult Formerly No Fine,ItemType,Media,Audio Tape,Miscellaneous,,Adult
+namys,NA-Mysteries,ItemCollection,Print,Book,Fiction,,Adult
+napclbr,NA-Computer Lab - Ref.,ItemCollection,Print,Book,Reference,,Adult
+cash,CA9-Nonfiction Shakespeare S Call Nos.,ItemCollection,Print,Book,Nonfiction,,Adult
+nacomic,NA-Comics/Graphic Novels,ItemCollection,Print,Book,Fiction,Comic,Adult
+xrpam,Pamphlet: Analytic Record,ItemType,Other,,Analytic,,Adult
+caaeroo,Cs9-AERO Oversize,ItemCollection,Print,Book,Nonfiction,,Adult
+cawest,CA3-Western,ItemCollection,Print,Book,Fiction,,Adult
+armap,Map: Ref Adult/YA,ItemType,Print,,Reference,,Adult
+jccdrom,CD-ROM: Juv,ItemType,Media,Data Disc,Miscellaneous,,Juvenile
+cynf,CY-Teen Nonfiction,ItemCollection,Print,Book,Nonfiction,,Teen
+caseaat,CA0-Seattle Atlases,ItemCollection,Print,Book,Miscellaneous,,Adult
+nabot,NA-Books On Tape,ItemCollection,Media,Audiobook Tape,Fiction,,Adult
+cs9go,REF-Ask at Level 9 Genealogy Desk (CS9Go),ItemCollection,Print,Book,Reference,,Adult
+aceqnh,Equipment: Adult/YA No Hold,ItemType,Equipment,,Miscellaneous,,Adult
+FA-I,Fast Add - Item,ItemCollection,Other,,Temporary,,Adult
+swser,Serials--Staff Ops. Copy,ItemCollection,Other,,Miscellaneous,,Adult
+ahmfc,Microfiche: Adult/YA No Hold,ItemType,Media,Film,Miscellaneous,,Adult
+najobr,NA-Job & Educ- Reference,ItemCollection,Print,Book,Reference,,Adult
+ncspec,NC-Children's Special Collection(s),ItemCollection,Print,Book,Miscellaneous,,Juvenile
+cs8r,CS 8 - Reference,ItemCollection,Print,Book,Reference,,Adult
+jcvhs,Video (VHS): Juv,ItemType,Media,Video Tape,Miscellaneous,,Juvenile
+ccsoft,CC-Children's Software,ItemCollection,Media,Data Disc,Miscellaneous,,Juvenile
+nyfic,NY-Teen - Fiction,ItemCollection,Print,Book,Fiction,,Teen
+cs8f,CS 8 - Folio,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs1l,CS 1 - Limit,ItemCollection,Print,Book,Miscellaneous,,Adult
+arpam,Pamphlet: Ref Adult/ya,ItemType,Print,,Reference,,Adult
+nctoy,NC-Children's Toys,ItemCollection,Media,,Miscellaneous,,Juvenile
+caseaf,CA0-Seattle Room Folio,ItemCollection,Print,Book,Miscellaneous,,Adult
+swtest,Test - DO NOT USE,ItemCollection,Other,,Miscellaneous,,Adult
+caeslt,CA1-ESL Teachers,ItemCollection,Print,Book,Miscellaneous,,Adult
+ccper,CC-Children's Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Juvenile
+acper,Magazine: Adult/ya,ItemType,Print,Periodical,Miscellaneous,,Adult
+cagrs,CA5-General Reference,ItemCollection,Print,Book,Miscellaneous,,Adult
+capfskt,CA9-Play File: Skits,ItemCollection,Print,,Nonfiction,,Adult
+peaknf,Peak Picks-Nonfiction,ItemCollection,Print,Book,Nonfiction,Peak Picks,Adult
+nacd,NA-Compact Discs,ItemCollection,Media,Audio Disc,Nonfiction,,Adult
+cacomic,CA3-Graphic Novels,ItemCollection,Print,Book,Fiction,Comic,Adult
+naglc,NA-Gay/Lesbian Collection,ItemCollection,Print,Book,Nonfiction,,Adult
+napar,NA-Parenting,ItemCollection,Print,Book,Nonfiction,,Adult
+nyb,NY-Teen - Biography,ItemCollection,Print,Book,Nonfiction,Biography,Teen
+wylp,WTBBL-Large Print - YA,ItemCollection,Print,Book,WTBBL,Large Print,Teen
+cyb,CY9-Teen Biography,ItemCollection,Print,Book,Nonfiction,Biography,Teen
+arcd,CD: Ref Adult/YA,ItemType,Media,Audio Disc,Reference,,Adult
+cs9l,CS 9 - Limit,ItemCollection,Print,Book,Miscellaneous,,Adult
+swper,Remote Annex - Periodicals,ItemCollection,Other,Periodical,Miscellaneous,,Adult
+cabob,CA-Books on Bikes,ItemCollection,Print,Book,Miscellaneous,,Adult
+naparr,NA-Ref Parenting,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncgold,Goldmark Collection,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+acphoto,Photographs: Adult/ya,ItemType,Media,Art,Miscellaneous,,Adult
+ncsub,NC--Children's Subject Kits,ItemCollection,Media,Kit,Miscellaneous,,Juvenile
+naart,NA-Framed Art,ItemCollection,Media,Art,Miscellaneous,,Adult
+ncdvd,NC-Children's DVDs,ItemCollection,Media,Video Disc,Fiction,,Juvenile
+nxanal,NA-Analytics Dummy,ItemCollection,Other,,Miscellaneous,,Adult
+arweb,Web Site: Ref Adult/YA,ItemType,Electronic,,Reference,,Adult
+cabr,CA9-Biography - Ref,ItemCollection,Print,Book,Reference,Biography,Adult
+cs9rf,CS 9 - Ref Folio,ItemCollection,Print,Book,Reference,,Adult
+caesli,CA1-ESL Intermediate,ItemCollection,Print,Book,Miscellaneous,,Adult
+navid,NA-Video Adult (VHS),ItemCollection,Media,Video Tape,Miscellaneous,,Adult
+ncseas,NC--Children's Seasonal,ItemCollection,Print,Book,Fiction,Holiday,Juvenile
+cs8ro,CS 8 - Ref Oversize,ItemCollection,Print,Book,Reference,,Adult
+nahmwkr,NA-Homework - Ref.,ItemCollection,Print,Book,Reference,,Adult
+cs7f,CS 7 - Folio,ItemCollection,Print,Book,Miscellaneous,,Adult
+nchol,NC-Children's Holiday,ItemCollection,Print,Book,Fiction,Holiday,Juvenile
+acpam,Pamphlet: Adult/ya,ItemType,Print,,Miscellaneous,,Adult
+cylp,CY3-Teen Large Print,ItemCollection,Print,Book,Fiction,Large Print,Teen
+nanar,NA-Native American - Ref.,ItemCollection,Print,Book,Reference,,Adult
+arcas,Audio Tape: Ref Adult/YA,ItemType,Media,Audio Tape,Reference,,Adult
+naeslr,NA-Eng Second Lang - Ref.,ItemCollection,Print,Book,Reference,,Adult
+swprsrv,Preservation,ItemCollection,Other,,Miscellaneous,,Adult
+ncrdr,NC--Children's Readers,ItemCollection,Print,Book,Fiction,Picture,Juvenile
+calpnew,CA3-Large Print New,ItemCollection,Print,Book,Fiction,Large Print,Adult
+cadvdnf,"CA7-DVD, Nonfiction",ItemCollection,Media,Video Disc,Nonfiction,,Adult
+ncvidnf,"NC-Children's Video, Nonfiction",ItemCollection,Media,Video Tape,Nonfiction,,Juvenile
+naeslir,NA-Eng Second Lang (Int REF),ItemCollection,Print,Book,Reference,,Adult
+ncdvdnf,"NC-Children's DVD, Nonfiction",ItemCollection,Media,Video Disc,Nonfiction,,Juvenile
+cs7,CS 7,ItemCollection,Print,Book,Miscellaneous,,Adult
+caseamp,CA0-Seattle Room Map,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncnf,NC-Children's Nonfiction,ItemCollection,Print,Book,Nonfiction,,Juvenile
+nanew,NA-New Adult Books,ItemCollection,Print,Book,Fiction,,Adult
+FA,Fast Add,ItemCollection,Other,,Temporary,,Adult
+cclpfic,CC-Children's Large Print,ItemCollection,Print,Book,Fiction,Large Print,Juvenile
+nab,NA-Biography,ItemCollection,Print,Book,Nonfiction,Biography,Adult
+canp,CA6-Newspapers,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+ncaa,Afam - Children's Circulating,ItemCollection,Print,Book,Nonfiction,,Juvenile
+cs1malp,CS 1 - MOB Large Print Nonfiction,ItemCollection,Print,Book,Nonfiction,Large Print,Adult
+ucunknj,Uncataloged Juv Mat,ItemType,Print,Book,Uncataloged,,Juvenile
+ncsoft,NC-Children's Software,ItemCollection,Media,Data Disc,Miscellaneous,,Juvenile
+cs6l,CS 6 - Limit,ItemCollection,Print,Book,Miscellaneous,,Adult
+naaafol,AfAm - Folder,ItemCollection,Media,Kit,Miscellaneous,,Adult
+ccbocd,CC-Children's Compact Discs,ItemCollection,Media,Audiobook Disc,Fiction,,Juvenile
+nabr,NA-Biography - Reference,ItemCollection,Print,Book,Reference,Biography,Adult
+cacdnf,"CA7-Books on CD, Nonfiction",ItemCollection,Media,Audiobook Disc,Nonfiction,,Adult
+acpost,Poster: Adult/YA,ItemType,Media,Art,Miscellaneous,,Adult
+camfr,CA8-Microform - Stacks,ItemCollection,Media,Film,Miscellaneous,,Adult
+naholsk,NA-Holiday - Adult - Stack,ItemCollection,Print,Book,Fiction,Holiday,Adult
+ncaafam,Afam - Child.Lit.Res/Ref,ItemCollection,Print,Book,Reference,,Juvenile
+jrper,Magazine: Ref Juv,ItemType,Print,Periodical,Reference,,Juvenile
+bcbk,Book: Adult/Formerly No Fine,ItemType,Print,Book,Miscellaneous,,Adult
+nacurr,NA-Current - Reference,ItemCollection,Print,Book,Reference,,Adult
+naaapb,AfAm - Paperbacks,ItemCollection,Print,Book,Fiction,,Adult
+cafold,CA-Folder,ItemCollection,Print,Folder,Miscellaneous,,Adult
+jrcd,CD: Ref Juv,ItemType,Media,Audio Disc,Reference,,Juvenile
+cs3mamy,CS 3 - MOB Mysteries,ItemCollection,Print,Book,Fiction,,Adult
+cs6,CS 6,ItemCollection,Print,Book,Miscellaneous,,Adult
+caref,CA-Reference,ItemCollection,Print,Book,Reference,,Adult
+alvhs,Video (VHS): Adult/YA,ItemType,Media,Video Tape,Miscellaneous,,Adult
+calncdr,"CA1-CD-ROM, Language",ItemCollection,Media,Data Disc,Language,,Adult
+calibr,CA8-Libretto File,ItemCollection,Print,Book,Nonfiction,,Adult
+naaanf,AfAm - Nf,ItemCollection,Print,Book,Nonfiction,,Adult
+ccnew,CC-Children's New Materials,ItemCollection,Print,Book,Nonfiction,,Juvenile
+cckit,CC-Children's Kit,ItemCollection,Media,Audio Disc,Nonfiction,,Juvenile
+cs6ro,CS 6 - Ref Oversize,ItemCollection,Print,Book,Reference,,Adult
+nass,NA-Short Stories,ItemCollection,Print,Book,Fiction,,Adult
+sxanal,CA-Analytics Dummy,ItemCollection,Other,,Temporary,,Adult
+caslide,CS 8 - Slide,ItemCollection,Media,Film,Miscellaneous,,Adult
+ch1mapa,CH1 - MOB Parenting,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+armfm,Microfilm: Ref Adult/ya,ItemType,Media,Film,Reference,,Adult
+cchol,CC-Children's Holiday,ItemCollection,Print,Book,Fiction,Holiday,Juvenile
+caval,CA0-Valuable Material,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs7ro,CS 7 - Ref Oversize,ItemCollection,Print,Book,Reference,,Adult
+cccas,CC-Children's Cassettes,ItemCollection,Media,Audio Tape,Miscellaneous,,Juvenile
+napamp,NA-Pamphlets,ItemCollection,Print,,Miscellaneous,,Adult
+catele,CA5-Telephone,ItemCollection,Print,Book,Miscellaneous,,Adult
+nckit,NC--Children's Kits,ItemCollection,Media,Kit,Miscellaneous,,Juvenile
+calnr,CA1-World Languages Reference,ItemCollection,Print,Book,Reference,,Adult
+nacas,NA-Audio Cassettes,ItemCollection,Media,Audio Tape,Fiction,,Adult
+nadoc,NA-Government Documents,ItemCollection,Print,Document,Miscellaneous,,Adult
+armfc,Microfiche: Ref Adult/ya,ItemType,Media,Film,Reference,,Adult
+ncfft,NC-Folk And Fairy Tales,ItemCollection,Print,Book,Nonfiction,,Juvenile
+naaar,AfAm - Reference,ItemCollection,Print,Book,Reference,,Adult
+cavidad,"CA3-Video, Audio-Described",ItemCollection,Media,Video Tape,Miscellaneous,,Adult
+cazine,ZAPP zine collection - Level 7 Aviation Room,ItemCollection,Print,Book,Periodical,,Adult
+capf,CA9-Play File,ItemCollection,Print,,Nonfiction,,Adult
+cs8l,CS 8 - Limit,ItemCollection,Print,Book,Miscellaneous,,Adult
+naenvr,NA-Environ.Ctr.Coll/Ref,ItemCollection,Print,Book,Reference,,Adult
+acvhs,Video (VHS): Adult/YA,ItemType,Media,Video Tape,Miscellaneous,,Adult
+narefsl,NA-Reference Special Location,ItemCollection,Print,Book,Reference,,Adult
+naread,NA-READ,ItemCollection,Print,Book,Miscellaneous,,Adult
+ucflpdr,USB Floppy Drive,ItemType,Equipment,,Uncataloged,,Adult
+caatlas,CA9-Atlases,ItemCollection,Print,Book,Nonfiction,,Adult
+seorder,On Order,ItemCollection,Other,,On Order,,Adult
+nccomic,NC-Children's Comics,ItemCollection,Print,Book,Fiction,Comic,Juvenile
+pkfic,Peak Picks Fiction,ItemCollection,Print,Book,Fiction,Peak Picks,Adult
+camys,CA3-Mystery,ItemCollection,Print,Book,Fiction,,Adult
+acunkn,Other: Adult/YA,ItemType,Print,,Miscellaneous,,Adult
+nana,NA-Native American,ItemCollection,Print,Book,Nonfiction,,Adult
+nasur,NA-Surplus Storage,ItemCollection,Print,Book,Miscellaneous,,Adult
+accd,CD: Adult/YA,ItemType,Media,Audio Disc,Miscellaneous,,Adult
+naenv,NA-Environmental Center Collection,ItemCollection,Print,Book,Miscellaneous,,Adult
+narc,NA-Readers' Corner,ItemCollection,Print,Book,Miscellaneous,,Adult
+nasb,NA-Small Business Collection,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs9so,CS 9 - Seattle Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+scmed,Video Or Dvd: Short Circ Period,ItemType,Media,Video Disc,Miscellaneous,,Adult
+ncpb,NC-Children's Paperbacks,ItemCollection,Print,Book,Fiction,,Juvenile
+dcord,On Order: Circulating Order,ItemType,Other,,On Order,,Adult
+canf,CA-Nonfiction,ItemCollection,Print,Book,Nonfiction,,Adult
+caindex,CA6-Magazine Indexes,ItemCollection,Print,Book,Miscellaneous,,Adult
+natxtr,NA-School Textbooks - Reference,ItemCollection,Print,Book,Reference,,Adult
+drmfmnp,Microfilm: Dummy Newspaper,ItemType,Other,Film,Temporary,,Adult
+cafund,CA7-Fundraising Reference,ItemCollection,Print,Book,Miscellaneous,,Adult
+ccrdr,CC-Children's Readers,ItemCollection,Print,Book,Fiction,Picture,Juvenile
+nainvr,NA-Investment Coll. - Ref.,ItemCollection,Print,Book,Reference,,Adult
+namar,NA-Marine Collection,ItemCollection,Print,Book,Nonfiction,,Adult
+naatlr,NA-Atlases - Reference,ItemCollection,Print,Book,Reference,,Adult
+caaerov,Cs9-AERO Valmat Oversize,ItemCollection,Print,Book,Nonfiction,,Adult
+casea,CA0-Seattle Coll.,ItemCollection,Print,Book,Miscellaneous,,Adult
+cacd,CA8-Music CD,ItemCollection,Media,Audio Disc,Nonfiction,,Adult
+nalnpb,NA-Lang. Coll. Uncat. Pbk,ItemCollection,Print,Book,Language,,Adult
+naeslb,NA-Eng Second Lang (Beg),ItemCollection,Print,Book,Miscellaneous,,Adult
+casf,CA3-Science Fiction,ItemCollection,Print,Book,Fiction,,Adult
+cybot,CY3-Teen Books on Tape,ItemCollection,Media,Audiobook Tape,Fiction,,Teen
+cs1mabi,CS 1 - Bifolkal Kits,ItemCollection,Media,Kit,Miscellaneous,,Adult
+nalndvd,NA-DVD World Languages,ItemCollection,Media,Video Disc,Language,,Adult
+nanf,NA-Nonfiction,ItemCollection,Print,Book,Nonfiction,,Adult
+canplr,CA3-Living Room Newspapers,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+carec,CA8-Phono Records,ItemCollection,Media,Audio Disc,Nonfiction,,Adult
+canwart,CS 8 - NW Arts,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs9s,CS 9 - Seattle,ItemCollection,Print,Book,Miscellaneous,,Adult
+caaerop,Cs9-AERO Periodicals,ItemCollection,Print,Book,Nonfiction,,Adult
+cass,CA3-Short Stories,ItemCollection,Print,Book,Fiction,,Adult
+naesl,NA-Eng Second Lang,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncser,NC-Children's Series,ItemCollection,Print,Book,Fiction,,Juvenile
+swbrs,Borrower Services,ItemCollection,Other,,Miscellaneous,,Adult
+qsref,QAS Reference,ItemCollection,Print,Book,Reference,,Adult
+caover,CA-Oversize,ItemCollection,Print,Book,Nonfiction,,Adult
+calpfic,CA3-Large Print Fiction,ItemCollection,Print,Book,Fiction,Large Print,Adult
+cs3fic,CS 3 - Fiction,ItemCollection,Print,Book,Fiction,,Adult
+napro,NA-Adult Professional -Ref.,ItemCollection,Print,Book,Reference,,Adult
+naclfic,NA-Classics (Fiction),ItemCollection,Print,Book,Fiction,,Adult
+scorder,Kids On Order,ItemCollection,Other,,On Order,,Juvenile
+nalas,NA-Laser Disc,ItemCollection,Media,Video Disc,Miscellaneous,,Adult
+nalpfic,NA-Large Print Fiction,ItemCollection,Print,Book,Fiction,Large Print,Adult
+cs1lew,CS 1 - Language,ItemCollection,Print,Book,Language,,Adult
+camap,CA9-Map,ItemCollection,Print,Book,Miscellaneous,,Adult
+acdisk,Diskette: Adult/YA,ItemType,Media,Data Disc,Miscellaneous,,Adult
+aceq,Equipment: Adult/YA,ItemType,Equipment,,Miscellaneous,,Adult
+cs6rf,CS 6 - Ref Folio,ItemCollection,Print,Book,Reference,,Adult
+jrdisk,Diskette: Ref Juv,ItemType,Media,Data Disc,Reference,,Juvenile
+cyln,CY-Teen Languages Collection,ItemCollection,Print,Book,Language,,Teen
+nalpnew,NA-Large Print New,ItemCollection,Print,Book,Fiction,Large Print,Adult
+cagbi,CA9-Geneal. Bibliographies,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncna,NC-Children's Native American,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+acfold,Folder: Adult/YA,ItemType,Media,Kit,Miscellaneous,,Adult
+arvid,Video: Ref Adult/YA,ItemType,Media,Video Tape,Reference,,Adult
+ccnf,CC-Children's Nonfiction,ItemCollection,Print,Book,Nonfiction,,Juvenile
+cadesk6,"CA6-RefDesk, MNP",ItemCollection,Print,Book,Reference,,Adult
+swill,Interlibrary Loan,ItemCollection,Other,,Interlibrary Loan,,Adult
+jrdvd,DVD: Ref Juv,ItemType,Media,Video Disc,Reference,,Juvenile
+swstfop,Staff Operation In Process,ItemCollection,Other,,Miscellaneous,,Adult
+casear,CA0-Seattle Room Ref,ItemCollection,Print,Book,Reference,,Adult
+caesla,CA1-ESL Advanced,ItemCollection,Print,Book,Miscellaneous,,Adult
+drmfper,Microfilm: Dummy Periodical,ItemType,Other,Film,Temporary,,Adult
+naaab,AfAm - Biographies,ItemCollection,Print,Book,Nonfiction,Biography,Adult
+ncesl,NC-Children's ESL,ItemCollection,Print,Book,Miscellaneous,ESL,Juvenile
+pknf,Peak Picks-Nonfiction,ItemCollection,Print,Book,Nonfiction,Peak Picks,Adult
+cyper,CY3-Teen Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Teen
+cycomic,CY3-Teen Comics & Graphic Novels,ItemCollection,Print,Book,Fiction,Comic,Teen
+cs6sofr,CS 6 - Ref Federal Depository Media,ItemCollection,Print,Book,Reference,,Adult
+cs6per,CS 6 - Magazines,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+cavid,"CA3-Video, Fiction",ItemCollection,Media,Video Tape,Fiction,,Adult
+cadvd,"CA3-DVD, Fiction",ItemCollection,Media,Video Disc,Fiction,,Adult
+naln,NA-Languages Collection,ItemCollection,Print,Book,Language,,Adult
+drnp,Newspaper: Dummy Record,ItemType,Other,Periodical,Temporary,,Adult
+nafold,NA-Folder or Bag,ItemCollection,Media,Kit,Miscellaneous,,Adult
+naref,NA-Reference,ItemCollection,Print,Book,Reference,,Adult
+namarr,NA-Marine Coll. - Reference,ItemCollection,Print,Book,Reference,,Adult
+bcdvd,DVD: Adult/Formerly No Fine,ItemType,Media,Video Disc,Miscellaneous,,Adult
+arpost,Poster: Ref Adult/YA,ItemType,Media,Art,Reference,,Adult
+blvhs,Video (VHS): Adult/Formerly No Fine Multi Vol,ItemType,Media,Video Tape,Miscellaneous,,Adult
+cs8rf,CS 8 - Ref Folio,ItemCollection,Print,Book,Reference,,Adult
+unk,Unknown collection for item creation,ItemCollection,Other,,Temporary,,Adult
+cs9sxo,CS 9 - Seattle Extra Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+ccvid,"CC-Children's Video, Fiction",ItemCollection,Media,Video Tape,Fiction,,Juvenile
+nynew,NY-Teen - New Books,ItemCollection,Print,Book,Fiction,,Teen
+careadr,CA5-Literacy Reference,ItemCollection,Print,Book,Reference,,Adult
+cs8rx,CS 8 - Ref Extra-large,ItemCollection,Print,Book,Reference,,Adult
+cagmf,CA9-Microform,ItemCollection,Media,Film,Miscellaneous,,Adult
+ccfft,CC-Folk And Fairy Tales,ItemCollection,Print,Book,Nonfiction,,Juvenile
+cs9vf,CS 9 - Valmat Folio,ItemCollection,Print,Book,Miscellaneous,,Adult
+jrbk,Book: Ref Juv,ItemType,Print,Book,Reference,,Juvenile
+cabocd,"CA7-Books on CD, Fiction",ItemCollection,Media,Audiobook Disc,Fiction,,Adult
+scbk,Online Resource--Children's,ItemCollection,Electronic,,Miscellaneous,,Juvenile
+naaaart,AfAm - Picture,ItemCollection,Media,Art,Miscellaneous,,Adult
+cs6o,CS 6 - Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+cccd,CC-Children's Compact Discs,ItemCollection,Media,Audio Disc,Nonfiction,,Juvenile
+xrbk,Part of Book: Analytic Record,ItemType,Other,Book,Analytic,,Adult
+drmfc,Microfiche: Dummy Periodical,ItemType,Other,Film,Temporary,,Adult
+capfxms,CA9-Play File: Christmas Plays,ItemCollection,Print,,Nonfiction,,Adult
+ccser,CC-Children's Series,ItemCollection,Print,Book,Fiction,,Juvenile
+bccdrom,CD-ROM: Adult/Formerly No Fine,ItemType,Media,Data Disc,Miscellaneous,,Adult
+cadesk7,"CA7-RefDesk, BST",ItemCollection,Print,Book,Reference,,Adult
+caperf,CA7-Folio Oversize Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+nacdr,"NA-CD-ROM, Nonfiction",ItemCollection,Media,Data Disc,Nonfiction,,Adult
+jccas,Audio Tape: Juv,ItemType,Media,Audio Tape,Miscellaneous,,Juvenile
+caseam,CA8-Seattle Music,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs7ac,CS 7 - Aero Cross,ItemCollection,Print,Book,Miscellaneous,,Adult
+camf,CA6-Microform,ItemCollection,Media,Film,Miscellaneous,,Adult
+drper,Magazine: Dummy Record,ItemType,Other,Periodical,Temporary,,Adult
+jrcas,Audio Tape: Ref Juv,ItemType,Media,Audio Tape,Reference,,Juvenile
+ncpic,NC--Children's Picture Books,ItemCollection,Print,Book,Fiction,Picture,Juvenile
+ccbot,CC-Children's Books on Tape,ItemCollection,Media,Audiobook Tape,Fiction,,Juvenile
+cadesk5,"CA5-RefDesk, GRS",ItemCollection,Print,Book,Reference,,Adult
+cs1lewr,CS 1 - Lang Ref,ItemCollection,Print,Book,Reference,,Adult
+ccdesk,"CC-RefDesk, CHI",ItemCollection,Print,Book,Reference,,Juvenile
+caeslb,CA1-ESL Beginning,ItemCollection,Print,Book,Miscellaneous,,Adult
+xrcdrom,Part of CD-ROM: Analytic Record,ItemType,Other,Data Disc,Analytic,,Adult
+ncln,NC-Children's Languages,ItemCollection,Print,Book,Language,,Juvenile
+caperm,CA6-Microfilm-Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+cs9ro,CS 9 - Ref Oversize,ItemCollection,Print,Book,Reference,,Adult
+jrrec,Record: Ref Juv,ItemType,Media,Audio Disc,Reference,,Juvenile
+unk,Unknown itype for item creation,ItemType,Other,,Temporary,,Adult
+caperal,CA6-Ref. Alcove Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+wcbk,WTBBL--Children's Collection,ItemCollection,Print,Book,WTBBL,,Juvenile
+ncbot,NC-Children's Bks on Tape,ItemCollection,Media,Audiobook Tape,Fiction,,Juvenile
+ch1mcpr,CH1 - MOB Pro/Storytelling,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+nynf,NY-Teen - Nonfiction,ItemCollection,Print,Book,Nonfiction,,Teen
+caeslc,CA1-ESL Citizenship,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncfic,NC-Children's Fiction,ItemCollection,Print,Book,Fiction,,Juvenile
+narec,NA-Phono Records,ItemCollection,Media,Audio Disc,Nonfiction,,Adult
+naeslar,NA-Eng Second Lang (Adv REF),ItemCollection,Print,Book,Reference,,Adult
+nalasr,NA-Laser Disc - Ref,ItemCollection,Media,Video Disc,Reference,,Adult
+nahome,NA-Home Improvement,ItemCollection,Print,Book,Nonfiction,,Adult
+acslide,Slides: Adult/YA,ItemType,Media,Film,Miscellaneous,,Adult
+naflpdr,USB Floppy Drive,ItemCollection,Equipment,,Miscellaneous,,Adult
+cs7rf,CS 7 - Ref Folio,ItemCollection,Print,Book,Reference,,Adult
+nyln,NY-Teen Languages Collection,ItemCollection,Print,Book,Language,,Teen
+caesl,CA1-ESL,ItemCollection,Print,Book,Miscellaneous,,Adult
+arnp,Newspaper: Ref Adult/YA,ItemType,Print,Periodical,Reference,,Adult
+dcillb,Ill Borrowed,ItemType,Other,,Interlibrary Loan,,Adult
+drcdrom,CD-ROM: Dummy Holding,ItemType,Other,Data Disc,Temporary,,Adult
+cs1mapc,CS 1 - MOB Pictorials,ItemCollection,Print,Book,Miscellaneous,,Adult
+carefo,"CA-Ref, Oversize",ItemCollection,Print,Book,Reference,,Adult
+caref9f,CA9-HTM Folio Reference,ItemCollection,Print,Book,Reference,,Adult
+jcbk,Book: Juv,ItemType,Print,Book,Miscellaneous,,Juvenile
+nastkr,NA-Stacks - Ref.,ItemCollection,Print,Book,Reference,,Adult
+caperlr,CA3-Living Room Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+ccref,CC-Children's Reference,ItemCollection,Print,Book,Reference,,Juvenile
+naconr,NA-Consumer - Ref.,ItemCollection,Print,Book,Reference,,Adult
+caaero,Cs9-AERO Reference,ItemCollection,Print,Book,Reference,,Adult
+nalh,NA-Local History/Archives,ItemCollection,Print,Book,Miscellaneous,,Adult
+nasbr,NA-Small Business - Reference,ItemCollection,Print,Book,Reference,,Adult
+nacdnf,"NA-Books on CD, Nonfiction",ItemCollection,Media,Audiobook Disc,Nonfiction,,Adult
+cs9o,CS 9 - Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs7r,CS 7 - Ref,ItemCollection,Print,Book,Reference,,Adult
+calncd,"CA1-Compact Disc, Language",ItemCollection,Media,Audio Disc,Language,,Adult
+nacur,NA-Current,ItemCollection,Print,Book,Miscellaneous,,Adult
+nadvd,"NA-DVD, Fiction",ItemCollection,Media,Video Disc,Fiction,,Adult
+nyser,NY-Teen Series,ItemCollection,Print,Book,Fiction,,Teen
+capop,CA-Pop-Up Branches,ItemCollection,Print,Book,Miscellaneous,,Adult
+ch1mcse,CH1 - Children's Seasonal,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+ncref,NC--Children's Reference,ItemCollection,Print,Book,Reference,,Juvenile
+naesla,NA-Eng Second Lang (Adv),ItemCollection,Print,Book,Miscellaneous,,Adult
+navidnf,"NA-Video, Nonfiction (VHS)",ItemCollection,Media,Video Tape,Nonfiction,,Adult
+ccdvd,"CC-Children's DVD, Fiction",ItemCollection,Media,Video Disc,Fiction,,Juvenile
+naaavf,AfAm - Vertical File,ItemCollection,Media,Kit,Miscellaneous,,Adult
+naeslt,NA-ESL-Materials For Teachers,ItemCollection,Print,Book,Miscellaneous,,Adult
+jcrec,Record: Juv,ItemType,Media,Audio Disc,Miscellaneous,,Juvenile
+cagrf,CA 9 Ref Genealogy Folio,ItemCollection,Print,Book,Reference,,Adult
+napost,NA-Poster,ItemCollection,Media,Art,Miscellaneous,,Adult
+sebk,Online Resource,ItemCollection,Electronic,,Miscellaneous,,Adult
+ucfold,Uncataloged Folder,ItemType,Print,Kit,Uncataloged,,Adult
+caspec,CA7-Specifications,ItemCollection,Print,Book,Miscellaneous,,Adult
+caln,CA1-Language,ItemCollection,Print,Book,Language,,Adult
+xrvhs,Video (VHS): Analytic Record,ItemType,Other,Video Tape,Analytic,,Adult
+cadesk8,"CA8-RefDesk, ARL",ItemCollection,Print,Book,Reference,,Adult
+napf,NA-Play File,ItemCollection,Print,,Nonfiction,,Adult
+acbk,Book: Adult/YA,ItemType,Print,Book,Miscellaneous,,Adult
+sedoc,Gov Docs - Online Only,ItemCollection,Electronic,Document,Miscellaneous,,Adult
+canew,CA3-New Adult Books,ItemCollection,Print,Book,Fiction,,Adult
+jrvhs,Video (VHS): Ref Juv,ItemType,Media,Video Tape,Reference,,Juvenile
+camapr,CA9-Map Room Atlases,ItemCollection,Print,Book,Reference,,Adult
+nahol,NA-Holiday - Adult,ItemCollection,Print,Book,Fiction,Holiday,Adult
+naaavid,AfAm - Videos,ItemCollection,Media,Video Tape,Miscellaneous,,Adult
+areq,Equipment: Ref Adult/YA,ItemType,Equipment,,Reference,,Adult
+nccas,NC-Children's Cassettes,ItemCollection,Media,Audio Tape,Miscellaneous,,Juvenile
+cadvdr,"CA6-DVD, Reference (CS6)",ItemCollection,Media,Video Disc,Reference,,Adult
+naper,NA-Periodical,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+walp,WTBBL-Large Print,ItemCollection,Print,Book,WTBBL,Large Print,Adult
+cavidnf,"CA7-Video, Nonfiction",ItemCollection,Media,Video Tape,Nonfiction,,Adult
+ncef,NC-Easy Fiction,ItemCollection,Print,Book,Fiction,,Juvenile
+nasf,NA-Sci-Fic/Fantasy,ItemCollection,Print,Book,Fiction,,Adult
+naaafic,AfAm - Fiction,ItemCollection,Print,Book,Fiction,,Adult
+FA-BI,Fast Add - Bib_Item,ItemCollection,Other,,Temporary,,Adult
+cs9r,CS 9 - Ref,ItemCollection,Print,Book,Reference,,Adult
+cagro,CA 9 Ref Genealogy Oversize,ItemCollection,Print,Book,Reference,,Adult
+jlvhs,Video (VHS): Juv Multi Vol,ItemType,Media,Video Tape,Miscellaneous,,Juvenile
+nabocd,NA-Books in CD Format,ItemCollection,Media,Audiobook Disc,Fiction,,Adult
+cs1malf,CS 1 - MOB Large Print Fiction,ItemCollection,Print,Book,Fiction,,Adult
+nainv,NA-Investment Collection,ItemCollection,Print,Book,Nonfiction,,Adult
+ncper,NC-Children's Magazine,ItemCollection,Print,Periodical,Miscellaneous,,Juvenile
+capero,CA7-Oversize Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+ncbocd,NC-Children's Books on CD,ItemCollection,Media,Audiobook Disc,Fiction,,Juvenile
+swbib,Catalog,ItemCollection,Other,,Miscellaneous,,Adult
+cs9ssl,CS 9 - Seattle Short and Long,ItemCollection,Print,Book,Miscellaneous,,Adult
+jckit,Kit: Juv,ItemType,Media,Kit,Miscellaneous,,Juvenile
+camapa,CA9-Map Room Alcove,ItemCollection,Print,Book,,,Adult
+jrmus,Song Book: Ref Juv,ItemType,Print,Book,Reference,,Juvenile
+nybocd,NY-Teen - Books on CD,ItemCollection,Media,Audiobook Disc,Fiction,,Teen
+cs7o,CS 7 - Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+cawa,CA0-WaAuthors,ItemCollection,Print,Book,Fiction,,Adult
+naeslc,NA-ESL-Citizenship,ItemCollection,Print,Book,Miscellaneous,,Adult
+cs1fic,CS 3 - Fiction,ItemCollection,Print,Book,Fiction,,Adult
+nanrc,NA-Neighborhood Resource Center,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncaavid,Afam - Juv. Video,ItemCollection,Media,Video Tape,Fiction,,Juvenile
+naatlas,NA-Atlases,ItemCollection,Print,Book,Nonfiction,,Adult
+nacasnf,NA-Cassettes Nonfiction,ItemCollection,Media,Audio Tape,Nonfiction,,Adult
+nclp,NC-Children's Large Print,ItemCollection,Print,Book,Fiction,Large Print,Juvenile
+wabk,WTBBL-Standard Book,ItemCollection,Print,Book,WTBBL,,Adult
+ch1mcrf,CH1 - MOB Children's Reference,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+naautor,NA-Auto Coll-Ref.,ItemCollection,Print,Book,Reference,,Adult
+qspero,QAS Periodicals - Oversize,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+sybk,Online Resource--Teen,ItemCollection,Electronic,,Miscellaneous,,Teen
+bccd,Book On CD: Rec Book Adult/Formerly No Fine,ItemType,Media,Audiobook Disc,Miscellaneous,,Adult
+ncb,NC-Children's Biographies,ItemCollection,Print,Book,Nonfiction,Biography,Juvenile
+naesli,NA-Eng Second Lang (Int),ItemCollection,Print,Book,Miscellaneous,,Adult
+cs6r,CS 6 - Ref,ItemCollection,Print,Book,Reference,,Adult
+ccvidnf,"CC-Children's Video, Nonfiction",ItemCollection,Media,Video Tape,Nonfiction,,Juvenile
+nakit,NA-Adult Kits,ItemCollection,Media,Kit,Miscellaneous,,Adult
+caeslr,CA1-ESL Reference,ItemCollection,Print,Book,Reference,,Adult
+cascook,CA-Seattle Cooks,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncpro,NC--Children's Professional,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+acart,Framed Art: Adult/YA,ItemType,Media,Art,Miscellaneous,,Adult
+ccef,CC-Children's Easy Fiction,ItemCollection,Print,Book,Fiction,,Juvenile
+xrper,Mag Article: Analytic Record,ItemType,Other,Periodical,Analytic,,Adult
+naclnf,NA-Classics (Nonfiction),ItemCollection,Print,Book,Nonfiction,,Adult
+nadocl,NA-Local Docs,ItemCollection,Print,Document,Miscellaneous,,Adult
+ncholsk,NC-Children's Holiday-STK,ItemCollection,Print,Book,Fiction,Holiday,Juvenile
+cs6pero,"CS 6 - Magazines, Oversize",ItemCollection,Print,Periodical,Miscellaneous,,Adult
+cafic,CA3-Fiction,ItemCollection,Print,Book,Fiction,,Adult
+nadocr,NA-Government Documents/Reference,ItemCollection,Print,Document,Reference,,Adult
+naaanew,AfAm - New,ItemCollection,Print,Book,Fiction,,Adult
+calndvd,"CA1-DVD, Language",ItemCollection,Media,Video Disc,Language,,Adult
+arrec,Record: Ref Adult/YA,ItemType,Media,Audio Disc,Reference,,Adult
+capermf,CA6-Microform - Periodical,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+sxdmya,DO NOT USE - ACQ Dummy For Serials,ItemCollection,Other,Periodical,Temporary,,Adult
+cadocr,CA6-Ref Documents,ItemCollection,Print,Document,Reference,,Adult
+ccaward,CC-Children's Newbery/Caldecott,ItemCollection,Print,Book,Fiction,,Juvenile
+cs9gf,REF-Ask at Level 9 Genealogy Desk (CS9Gf),ItemCollection,Print,Book,Reference,,Adult
+cynew,CY3-Teen New Books,ItemCollection,Print,Book,Fiction,,Teen
+cacdr,"CA7-CDROM, Nonfiction",ItemCollection,Media,Data Disc,Nonfiction,,Adult
+acmap,Map: Adult/YA,ItemType,Print,,Miscellaneous,,Adult
+caaeroc,Cs9-AERO Valmat,ItemCollection,Print,Book,Nonfiction,,Adult
+cs8o,CS 8 - Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+naover,NA-Oversize,ItemCollection,Print,Book,Nonfiction,,Adult
+nycomic,NY-Teen - Comics & Graphic Novels,ItemCollection,Print,Book,Fiction,Comic,Teen
+cagrsat,"CA5-Ref-Atlas, GRS",ItemCollection,Print,Book,Miscellaneous,,Adult
+arvhs,Video (VHS): Ref Adult/YA,ItemType,Media,Video Tape,Reference,,Adult
+ncnew,NC-Children's New Materials,ItemCollection,Print,Book,Fiction,,Juvenile
+naauto,NA-Auto Collection,ItemCollection,Print,Book,Nonfiction,,Adult
+walpper,WTBBL--Large Print/Magazine,ItemCollection,Print,Periodical,WTBBL,Large Print,Adult
+bckit,Kit: Adult Formerly No Fine,ItemType,Media,Kit,Miscellaneous,,Adult
+arper,Magazine: Ref Adult/ya,ItemType,Print,Periodical,Reference,,Adult
+cacasnf,"CA7-Cassettes, Nonfiction",ItemCollection,Media,Audio Tape,Nonfiction,,Adult
+jccd,CD: Juv,ItemType,Media,Audio Disc,Miscellaneous,,Juvenile
+dcilll,Ill Lending,ItemType,Other,,Interlibrary Loan,,Adult
+bcper,Magazine: Adult/Formerly No Fine,ItemType,Print,Periodical,Miscellaneous,,Adult
+cs6sof,CS 6 - Federal Depository Media,ItemCollection,Print,Book,Miscellaneous,,Adult
+casbr,CA7-Small Business Reference,ItemCollection,Print,Book,Reference,,Adult
+camus,CA8-Music Score,ItemCollection,Print,Music Score,Nonfiction,,Adult
+cyfic,CY3-Teen Fiction,ItemCollection,Print,Book,Fiction,,Teen
+nacon,NA-Consumer,ItemCollection,Print,Book,Nonfiction,,Adult
+calpnf,CA3-Large Print Nonfiction,ItemCollection,Print,Book,Nonfiction,Large Print,Adult
+ncenf,NC-Easy Nonfiction,ItemCollection,Print,Book,Nonfiction,,Juvenile
+ccpic,CC-Children's Picture Books,ItemCollection,Print,Book,Fiction,Picture,Juvenile
+cakitnf,"CA7-Kit, Nonfiction",ItemCollection,Media,Kit,Nonfiction,,Adult
+ncbb,NC-Children's Board Books,ItemCollection,Print,Book,Fiction,Picture,Juvenile
+ardisk,Diskette: Ref Adult/YA,ItemType,Media,Data Disc,Reference,,Adult
+cavalo,CA0-Valuable Mater. Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+caref7,CA7-SCT Room Reference,ItemCollection,Print,Book,Reference,,Adult
+cyref,CY3-Teen Reference,ItemCollection,Print,Book,Reference,,Teen
+qsper,QAS Periodicals,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+acrec,Record: Adult/YA,ItemType,Media,Audio Disc,Miscellaneous,,Adult
+nyref,NY-Teen - Reference,ItemCollection,Print,Book,Reference,,Teen
+ccln,CC-Children's Languages,ItemCollection,Print,Book,Language,,Juvenile
+nceck,NC-Early Child.Ed.Kit,ItemCollection,Media,Kit,Miscellaneous,,Juvenile
+armus,Music Score: Ref Adult/ya,ItemType,Print,Music Score,Reference,,Adult
+narcr,NA-Readers' Corner - Ref.,ItemCollection,Print,Book,Reference,,Adult
+nybot,NY-Teen - Books on Tape,ItemCollection,Media,Audiobook Tape,Fiction,,Teen
+ackit,Kit: Adult/YA,ItemType,Media,Kit,Miscellaneous,,Adult
+casoft,CS 6 - Software,ItemCollection,Media,Data Disc,Miscellaneous,,Adult
+cacon,CA7-Ref-Consumer,ItemCollection,Print,Book,Reference,,Adult
+acmus,Music Score: Adult/ya,ItemType,Print,Music Score,Miscellaneous,,Adult
+nahmwk,NA-Homework,ItemCollection,Print,Book,Nonfiction,,Adult
+cadocmf,CA6-Microform - Documents,ItemCollection,Media,Document,Miscellaneous,,Adult
+cab,CA9-Biography,ItemCollection,Print,Book,Nonfiction,Biography,Adult
+naholr,NA-Holiday - Adult - Ref,ItemCollection,Print,Book,Fiction,Holiday,Adult
+cceck,"CC-Kit, Begin With Books",ItemCollection,Print,Book,Miscellaneous,,Juvenile
+napb,NA-Paperbacks,ItemCollection,Print,Book,Fiction,,Adult
+sxcdr,CD-ROM Analytic - Dummy,ItemCollection,Other,Data Disc,Temporary,,Adult
+caref8,CA8-ARL Room Reference,ItemCollection,Print,Book,Reference,,Adult
+cybocd,CY3-Teen Compact Disc,ItemCollection,Media,Audiobook Disc,Fiction,,Teen
+navidgr,NA-Video Guides-Reference,ItemCollection,Print,Book,Reference,,Adult
+caseapm,CA0-Seattle Room Pamphlet File,ItemCollection,Print,Book,Miscellaneous,,Adult
+drtest,Testing,ItemType,Other,,Temporary,,Adult
+naengr,Engravers,ItemCollection,Print,Book,Miscellaneous,,Adult
+unkn,Qas-use Limited To Central Library,ItemCollection,Other,,Temporary,,Adult
+caperds,CA6-Current Magazine Display Shelves,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+cadesk3,CS 3 - Ref Fiction,ItemCollection,Print,Book,Reference,,Adult
+alaptop,Laptop: Hourly Circulating,ItemType,Equipment,,Miscellaneous,,Adult
+ncrec,NC-Children's Records,ItemCollection,Media,Audio Disc,Nonfiction,,Juvenile
+cagd,CA 9 Genealogy Desk,ItemCollection,Print,Book,Reference,,Adult
+arcdrom,CD-ROM: Ref Adult/YA,ItemType,Media,Data Disc,Reference,,Adult
+cs9g,REF-Ask at Level 9 Genealogy Desk (CS9G),ItemCollection,Print,Book,Reference,,Adult
+naeslbr,NA-Eng Second Lang (Beg REF),ItemCollection,Print,Book,Reference,,Adult
+accas,Audio Tape: Adult/YA,ItemType,Media,Audio Tape,Miscellaneous,,Adult
+cs9,CS 9,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncedu,NC-Educator Shelf,ItemCollection,Print,Book,Miscellaneous,,Juvenile
+ardvd,DVD: Ref Adult/YA,ItemType,Media,Video Disc,Reference,,Adult
+nawest,NA-Westerns,ItemCollection,Print,Book,Fiction,,Adult
+cs9sf,CS 9 - Seattle Folio,ItemCollection,Print,Book,Miscellaneous,,Adult
+arkit,Kit: Ref Adult/YA,ItemType,Media,Kit,Reference,,Adult
+pkbknh,Peak Picks Book,ItemType,Print,Book,Fiction,Peak Picks,Adult
+areqnh,Equipment (disabled) No Holds/No Loan,ItemType,Equipment,,Reference,,Adult
+drord,On Order: Ref Order,ItemType,Other,,On Order,,Adult
+najob,NA-Job And Education,ItemCollection,Print,Book,Nonfiction,,Adult
+cs7l,CS 7 - Limit,ItemCollection,Print,Book,Miscellaneous,,Adult
+nccd,NC-Children's CDs,ItemCollection,Media,Audio Disc,Nonfiction,,Juvenile
+caref9,CA9-HTM Room Reference,ItemCollection,Print,Book,Reference,,Adult
+arphoto,Photographs: Ref Adult/ya,ItemType,Media,Art,Reference,,Adult
+nastk,Stacks - Backroom,ItemCollection,Print,Book,Miscellaneous,,Adult
+nylp,NY-Teen Large Print,ItemCollection,Print,Book,Fiction,Large Print,Teen
+cag,CA 9 Genealogy,ItemCollection,Print,Book,Miscellaneous,,Adult
+nalpnf,NA-Large Print Nonfiction,ItemCollection,Print,Book,Nonfiction,Large Print,Adult
+jrweb,Web Site: Ref Juv,ItemType,Electronic,,Reference,,Juvenile
+cabot,"CA3-Books on Tape, Fiction",ItemCollection,Media,Audiobook Tape,Fiction,,Adult
+caseao,CA0-Seattle Room Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+acdvd,DVD: Adult/YA,ItemType,Media,Video Disc,Miscellaneous,,Adult
+ahmfm,Microfilm: Adult/YA No Hold,ItemType,Media,Film,Miscellaneous,,Adult
+cainter,CA6-International Reference,ItemCollection,Print,Book,Miscellaneous,,Adult
+ncaward,NC-Children's-Newbery/Caldecott,ItemCollection,Print,Book,Fiction,,Juvenile
+caread,CA1-READ,ItemCollection,Print,Book,Miscellaneous,,Adult
+accdrom,CD-ROM: Adult/YA,ItemType,Media,Data Disc,Miscellaneous,,Adult
+ucunkn,Uncataloged Material,ItemType,Print,Book,Uncataloged,,Adult
+cadesk9,"CA9-RefDesk, HTM",ItemCollection,Print,Book,Reference,,Adult
+navidg,NA-Video Guides,ItemCollection,Print,Book,Nonfiction,,Adult
+ccdvdnf,"CC-Children's DVD, Nonfiction",ItemCollection,Media,Video Disc,Nonfiction,,Juvenile
+cs7a,CS 7 - Aero,ItemCollection,Print,Book,Miscellaneous,,Adult
+ccfic,CC-Children's Fiction,ItemCollection,Print,Book,Fiction,,Juvenile
+cainv,CA7-Investment Reference,ItemCollection,Print,Book,Miscellaneous,,Adult
+xrmus,Music Score: Analytic Bound,ItemType,Other,Music Score,Analytic,,Adult
+jcmus,Song Book: Bound Juv,ItemType,Print,Book,Miscellaneous,,Juvenile
+cacdrr,"CS 6-CDROM, Reference (CS6)",ItemCollection,Media,Data Disc,Reference,,Adult
+cs7ao,CS 7 - Aero Oversize,ItemCollection,Print,Book,Miscellaneous,,Adult
+nadesk,NA-Reference Desk,ItemCollection,Print,Book,Reference,,Adult
+ncvid,NC-Children's Videos,ItemCollection,Media,Video Tape,Fiction,,Juvenile
+arunkn,Other: Ref Adult/YA,ItemType,Print,,Reference,,Adult
+acvid,Video: Adult/YA,ItemType,Media,Video Tape,Miscellaneous,,Adult
+atablet,Tablet computer,ItemType,Equipment,,Miscellaneous,,Adult
+jrkit,Kit: Ref Juv,ItemType,Media,Kit,Reference,,Juvenile
+nadvdnf,"NA-DVD, Nonfiction",ItemCollection,Media,Video Disc,Nonfiction,,Adult
+nasoft,NA-Software,ItemCollection,Media,Data Disc,Miscellaneous,,Adult
+napersk,NA-Periodicals - Stack,ItemCollection,Print,Periodical,Miscellaneous,,Adult
+arslide,Slides: Ref Adult/YA,ItemType,Media,Film,Reference,,Adult
+calncas,"CA1-Cassette, Language",ItemCollection,Media,Audio Tape,Language,,Adult
+natxt,NA-School Textbooks,ItemCollection,Print,Book,Nonfiction,,Adult
+cadocpt,CA6-Poster - DOC,ItemCollection,Media,Document,Miscellaneous,,Adult
+ahbk,Book: Adult/YA: No Hold,ItemType,Print,Book,Miscellaneous,,Adult
+jcdvd,DVD: Juv Circulating,ItemType,Media,Video Disc,Miscellaneous,,Juvenile
+syorder,Teen On Order,ItemCollection,Other,,On Order,,Teen
+calnvid,"CA1-Video, Language",ItemCollection,Media,Video Tape,Language,,Adult
+cadoc,CA6-Documents,ItemCollection,Print,Document,,,Adult
+napass,NA-Discovery Pass,ItemCollection,Media,Pass,Miscellaneous,,Adult
+ccover,Oversized Materials: Juv,ItemCollection,Print,Book,Nonfiction,,Juvenile
+capass,CA-Discovery Pass,ItemCollection,Media,Pass,Miscellaneous,,Adult
+lock2,Ranier Beach Hold Pickup Locker,Location,,,,,
+lock1,High Point Hold Pickup Locker,Location,,,,,
+acpass,Discover Pass: Adult/YA,ItemType,Media,Pass,Miscellaneous,,Adult

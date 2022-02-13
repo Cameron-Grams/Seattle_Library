@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-29e74c6c36207c5bf95da76d86eabe52"}, "mark": "line", "encoding": {"color": {"type": "nominal", "field": "variable"}, "x": {"type": "nominal", "field": "year"}, "y": {"type": "quantitative", "field": "value", "title": "Counts"}}, "title": "Comparion of Library Visits to Checkout of Physical Items", "width": 500, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-29e74c6c36207c5bf95da76d86eabe52": [{"year": 2010, "variable": "Checkouts", "value": 8425046.0}, {"year": 2011, "variable": "Checkouts", "value": 7784795.0}, {"year": 2012, "variable": "Checkouts", "value": 7299124.0}, {"year": 2013, "variable": "Checkouts", "value": 7864260.0}, {"year": 2014, "variable": "Checkouts", "value": 7416879.0}, {"year": 2015, "variable": "Checkouts", "value": 6871626.0}, {"year": 2016, "variable": "Checkouts", "value": 6404830.0}, {"year": 2017, "variable": "Checkouts", "value": 6213798.0}, {"year": 2018, "variable": "Checkouts", "value": 6020702.0}, {"year": 2019, "variable": "Checkouts", "value": 5703704.0}, {"year": 2010, "variable": "Total_visits", "value": 6932753.0}, {"year": 2011, "variable": "Total_visits", "value": 6748230.0}, {"year": 2012, "variable": "Total_visits", "value": 6466073.0}, {"year": 2013, "variable": "Total_visits", "value": 6742275.0}, {"year": 2014, "variable": "Total_visits", "value": 6557748.0}, {"year": 2015, "variable": "Total_visits", "value": 6082046.0}, {"year": 2016, "variable": "Total_visits", "value": 5682628.0}, {"year": 2017, "variable": "Total_visits", "value": 5389626.0}, {"year": 2018, "variable": "Total_visits", "value": 5413286.0}, {"year": 2019, "variable": "Total_visits", "value": 5139142.0}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
